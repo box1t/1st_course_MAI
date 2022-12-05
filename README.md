@@ -20,3 +20,10 @@ Number 16 in the list
 | [Lab 13 (var 13) soon](https://github.com/box1t/MAILABS/) |
 | [Lab 14 (var 26) soon](https://github.com/box1t/MAILABS/) |
 | [Lab 15 (var 30) soon](https://github.com/box1t/MAILABS/) |
+
+| **Course Project (to finally transform a dog to man)** |
+| ------ |
+| CP 1 |
+| CP 2 |
+| CP 3 |
+| CP 4 |
