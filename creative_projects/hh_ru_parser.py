@@ -1,4 +1,15 @@
-# парсер не доделан
+############## парсер не доделан (broken) ######################
+
+
+
+############ эти строки должны быть в файле main.py, но я не хочу заполнять папку "для галочки" #############
+from headhunter import extract_max_page,
+exctract_hh_jobs
+
+max_page = extract_max_page
+exctact_hh_jobs(max_page)
+print(max_page)
+###########################
 
 import requests
 from bs4 import BeautifulSoup
