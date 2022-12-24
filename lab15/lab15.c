@@ -11,7 +11,7 @@ int main() {
     int size;
     int matrix[MAX_N][MAX_N];
 
-    // считывание данных и выявление минимального/максимального элементов
+    // задаём первоначальные минимальные и максимальные элементы матрицы
     int min_matrix_elem = INT_MAX;
     int max_elem_i = -1;
     int max_elem_j = -1;
