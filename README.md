@@ -9,7 +9,7 @@ Number 16 in the list
 | [Lab 3](https://github.com/box1t/1st_course_MAI/main/lab3) |
 | **Part 2. Old-fashioned programming** |
 | [Lab 5 (var 8)](https://github.com/box1t/1st_course_MAI/blob/main/lab5/lab5.pdf) | 
-| [Lab 6](https://github.com/box1t/1st_course_MAI/blob/main/lab6/lab6.pdf) |
+| [Lab 6 (var 7)](https://github.com/box1t/1st_course_MAI/blob/main/lab6/lab6.pdf) |
 | [Lab 7 (var 5)](https://github.com/box1t/1st_course_MAI/blob/main/lab7/lab7.pdf) | 
 | **Part 3. Intoduction to C programming language** |
 | [Lab 8 (extended version)](https://github.com/box1t/1st_course_MAI/blob/main/lab8/lab8.pdf) |
