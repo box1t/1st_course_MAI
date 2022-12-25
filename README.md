@@ -15,10 +15,10 @@ Number 16 in the list
 | [Lab 8 (extended version)](https://github.com/box1t/1st_course_MAI/blob/main/lab8/lab8.pdf) |
 | [Lab 9 (var 30)](https://github.com/box1t/1st_course_MAI/blob/main/lab9/lab9.pdf) |
 | [Lab 10 (extended version)](https://github.com/box1t/1st_course_MAI/blob/main/lab10/lab10.pdf) |
-| [Lab 11 (var 35) soon](https://github.com/box1t/1st_course_MAI/) |
-| [Lab 12 (var 7) soon](https://github.com/box1t/1st_course_MAI/) |
-| [Lab 13 (var 13) soon](https://github.com/box1t/1st_course_MAI/) |
-| [Lab 14 (var 26) soon](https://github.com/box1t/1st_course_MAI/) |
-| [Lab 15 (var 30) soon](https://github.com/box1t/1st_course_MAI/) |
+| [Lab 11 (var 35)](https://github.com/box1t/1st_course_MAI/blob/main/lab11/lab11.pdf) |
+| [Lab 12 (var 7)](https://github.com/box1t/1st_course_MAI/blob/main/lab12/lab12.pdf) |
+| [Lab 13 (var 13)](https://github.com/box1t/1st_course_MAI/blob/main/lab13/lab13.pdf) |
+| [Lab 14 (var 26)](https://github.com/box1t/1st_course_MAI/blob/main/lab14/lab14.pdf) |
+| [Lab 15 (var 30)](https://github.com/box1t/1st_course_MAI/blob/main/lab15/lab15.pdf) |
 
 
