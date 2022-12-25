@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-void сonvert_to_binary(int number)
+void convert_to_binary(int number)
 {
     int j;
-    for(int i = 7; i >= 0; i--) // так как знак нестрогий, получается 8 разрядов числа
+    for(int i = 31; i >= 0; i--) // так как знак нестрогий, получается 8 разрядов числа
                                 // т.е. восьмибитное представление в условных границах (-128;127)
     {
         j = number >> i; // делаем битовый сдвиг вправо, и так для каждого разряда в цикле.
@@ -27,12 +27,12 @@ int main() {
             break;
 		}
         
-        if (number < -128 || number > 127){
-			printf("\nRestricted value of size! Use between (-128; 127)\n");
+        if (number < -32768 || number > 32767){
+			printf("\nRestricted value of size! Use between (-32768; 32767)\n");
 			continue;
 		}
         
-        сonvert_to_binary(number); 
+        convert_to_binary(number); 
                 
     }
     return 0;
