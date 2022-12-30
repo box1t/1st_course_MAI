@@ -23,5 +23,5 @@ Inspired by V.E. Zaytcev
 - Переходим на официальный сайт [obsidian](https://obsidian.md/) для загрузки средства просмотра файлов.
 - Скачиваем из этого репозитория архив "Computer science (МАИ).7z".
 - Извлекаем содержимое архива и выбираем его в программе для использования.
-![archive](https://github.com/box1t/1st_course_MAI/blob/main/creative_projects/Wiki_MAI/resources/archive.jpeg)
 ```
+![archive](https://github.com/box1t/1st_course_MAI/blob/main/creative_projects/Wiki_MAI/resources/archive.jpeg)
